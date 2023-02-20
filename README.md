@@ -1,0 +1,1 @@
+# Moduł Terraform dla instancji AWS EC2
