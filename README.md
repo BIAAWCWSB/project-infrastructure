@@ -1,2 +1,3 @@
-Prosta aplikacja webowa - Python
-W tym repozytorium znajdziesz prosty przykład aplikacji webowej napisanej w języku Python przy użyciu frameworku Flask.
+# Przykładowa aplikacja webowa - Python
+
+W tym repozytorium znajdziesz przykładową aplikację webową napisaną w języku Python przy użyciu frameworku Flask.
