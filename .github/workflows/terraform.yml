@@ -3,7 +3,14 @@ name: Terraform
 on: [push]
 
 jobs:
+  hello_world:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print Hello World
+      run: echo "Hello World from project-infrastructure"
+
   terraform:
+    needs: hello_world
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
