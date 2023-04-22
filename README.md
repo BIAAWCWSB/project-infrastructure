@@ -1,1 +1,1 @@
-# Moduł Terraform dla instancji AWS EC2
+Prosta aplikacja webowa - python
